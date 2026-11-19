@@ -1,0 +1,1 @@
+NEW: /register for passenger registration; /login for login; /profile to edit details; /individual-booking uses saved profile; /booking remains the original family booking. New accounts use hashed passwords. Academic demo only, not real MSRTC booking or verified concessions.

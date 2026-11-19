@@ -1,0 +1,5 @@
+[
+ {"bus_id":"MH12AB1234","name":"Shivneri","from":"Pune","to":"Mumbai","fare":520,"status":"ON_TIME"},
+ {"bus_id":"MH12CD5678","name":"MSRTC Ordinary","from":"Pune","to":"Mumbai","fare":280,"status":"DELAYED"},
+ {"bus_id":"MH14EF9012","name":"Shivshahi","from":"Pune","to":"Nashik","fare":410,"status":"ON_TIME"}
+]

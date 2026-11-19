@@ -1,0 +1,42 @@
+[
+  {
+    "route": "Mumbai \u2192 Nashik",
+    "name": "NH3 / Mumbai-Nashik",
+    "duration": 240,
+    "fare": 450,
+    "traffic": "LOW",
+    "score": 92
+  },
+  {
+    "route": "Pune \u2192 Mumbai",
+    "name": "Expressway",
+    "duration": 210,
+    "fare": 520,
+    "traffic": "LOW",
+    "score": 92
+  },
+  {
+    "route": "Mumbai \u2192 Pune",
+    "name": "Expressway",
+    "duration": 210,
+    "fare": 450,
+    "traffic": "LOW",
+    "score": 91
+  },
+  {
+    "route": "Pune \u2192 Nashik",
+    "name": "NH60",
+    "duration": 240,
+    "fare": 410,
+    "traffic": "LOW",
+    "score": 88
+  },
+  {
+    "route": "Nashik \u2192 Pune",
+    "name": "NH60",
+    "duration": 240,
+    "fare": 410,
+    "traffic": "LOW",
+    "score": 88
+  }
+]
